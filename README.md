@@ -57,9 +57,9 @@ This combination allows me to not only implement models but also understand **wh
 
 ## 📬 Connect with me
 
-- LinkedIn: [Tu perfil]
+- LinkedIn: [Jose Mayor](https://www.linkedin.com/in/josemayor-ai-ml-developer/)
 - X / Twitter: [@josehermayor](https://x.com/josehermayor)
-- Email: [tu@email.com]
+- Email: [hola@josemayor.dev]
 
 ---
 
