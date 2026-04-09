@@ -59,7 +59,7 @@ This combination allows me to not only implement models but also understand **wh
 
 - LinkedIn: [Jose Mayor](https://www.linkedin.com/in/josemayor-ai-ml-developer/)
 - X / Twitter: [@josehermayor](https://x.com/josehermayor)
-- Email: [hola@josemayor.dev]
+- Email: [Contact](hola@josemayor.dev)
 
 ---
 
